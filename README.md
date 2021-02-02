@@ -7,9 +7,13 @@ Essa linha eu adicionei diretamente no site! **QUE IMPRESSIONANTE!**
 
 
 # Guia Linguagem Markdown
+
 Texto em Negrito: **Dois Asteriscos** ou __Dois Underlines__
+<br>
 Texto em Itálico: *Um Asteriscos* ou _Um Underline_
+<br>
 Texto Ricado: ~~Dois Tíls~~
+
 Títulos:
   # Título 1
   ## Título 2
