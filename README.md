@@ -72,13 +72,42 @@ TÍTULOS:
  
  LINK + IMAGEM:
  
- [![Legenda](url da img)](url para a pagina)]
+ [![Legenda](url da img)](url para a pagina)
  [![One Piece](https://manualdosgames.com/wp-content/uploads/2020/10/One-Piece-chegar%C3%A1-na-Netflix-1280x720-1.jpg)](https://manualdosgames.com/veja-um-trecho-dublado-de-one-piece-na-netflix/)
  
+TABELA:
+Num | Nome | Nota
+---|---|---
+1 | Alessandro | 8
+2 | Bianca | 9
+3 | Thiago | 9
+4 | Pablo | 10
  
- 
- 
- 
+CÓDIGO:
+
+código `<script src="javascript.js"></script>`
+
+código
+```
+let num = prompt('Digite um valor');
+if(num%2 === 0){
+console.log(num+' é par');
+}
+else{
+console.log(num+' é ímpar');
+```
+
+EMOJI (:nome do emoji:):
+
+link com todos os emojis em github: [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+
+atalho do teclado para emojis: (tecla Windows + ponto)
+
+exemplos:
+:monkey: 
+:hand: 
+:rocket:
+
  
  
  
