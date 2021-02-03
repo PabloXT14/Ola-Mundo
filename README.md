@@ -20,9 +20,9 @@ TÍTULOS:
   ### Título 3
   #### Título 4
   ##### Título 5
-  ###### Título 6
+  ###### Título 6  
   
- LINHAS (3 traço ou 3 pontos):
+    LINHAS (3 traço ou 3 pontos):
   ---
   ***
   
@@ -108,10 +108,24 @@ exemplos:
 :hand: 
 :rocket:
 
+
+CITAÇÃO:  
+> Texto citado (comentário)  
+  
+  Como **Steve Jobs** disse uma vez:  
+> Decidir o que não fazer é tão  
+> importante quanto decidir  
+> o que fazer  
  
- 
- 
- 
+ Bela frase!
+
+
+QUEBRA DE LINHA:  
+doubled space + enter  
+  
+GUIA / PDF COMPLETO SOBRE LINGUAGEM MARKDOWN:  
+[Clique aqui](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+
  
  
  
