@@ -8,13 +8,13 @@ Essa linha eu adicionei diretamente no site! **QUE IMPRESSIONANTE!**
 
 # Guia Linguagem Markdown
 
-Texto em Negrito: **Dois Asteriscos** ou __Dois Underlines__
+TEXTO EM NEGRITO: **Dois Asteriscos** ou __Dois Underlines__
 <br>
-Texto em Itálico: *Um Asteriscos* ou _Um Underline_
+TEXTO EM ITÁLICO: *Um Asteriscos* ou _Um Underline_
 <br>
-Texto Ricado: ~~Dois Tíls~~
+TEXTO RISCADO: ~~Dois Tíls~~
 
-Títulos:
+TÍTULOS:
   # Título 1
   ## Título 2
   ### Título 3
@@ -22,15 +22,15 @@ Títulos:
   ##### Título 5
   ###### Título 6
   
- Linhas (3 traço ou 3 pontos):
+ LINHAS (3 traço ou 3 pontos):
   ---
   ***
   
- Mistrurando configurações de textos (itálico + negrito): 
+ MISTURANDO CONFIGURAÇÕES DE TEXTO (itálico + negrito): 
   __*texto com itálico + negrito*__
   
  
- Lista Ordenada (usa ponto):
+ LISTA ORDENADA (usa ponto):
   1. Item
   2. Item
   3. Item
@@ -39,7 +39,7 @@ Títulos:
      2. subitem
      3. subitem
   
- Lista Não Ordenada:
+ LISTA NÃO ORDENADA:
  
  * Item a
    * a1
@@ -53,15 +53,22 @@ Títulos:
  - Item f
  - Item g
  
- Lista de Tarefas:
+ LISTA DE TAREFAS:
  - [X] Varrer o chão
  - [X] Passar pano no chão
  - [ ] Lavar a louça
  - [X] Estudar programção
  - [ ] Colocas roupa no varal
  
+ IMAGENS:
  
+ ![Legenda](url da imagem)
+ ![Dragonl Ball](https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/04/Dragon-Ball.jpg)
  
+ LINKS:
+ 
+ [text](url aqui)
+ [Acesse o meu GitHub](https://github.com/PabloXT14)
  
  
  
