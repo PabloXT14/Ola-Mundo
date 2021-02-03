@@ -70,6 +70,10 @@ TÍTULOS:
  [text](url aqui)
  [Acesse o meu GitHub](https://github.com/PabloXT14)
  
+ LINK + IMAGEM:
+ 
+ [![Legenda](url da img)](url para a pagina)]
+ [![One Piece](https://manualdosgames.com/wp-content/uploads/2020/10/One-Piece-chegar%C3%A1-na-Netflix-1280x720-1.jpg)](https://manualdosgames.com/veja-um-trecho-dublado-de-one-piece-na-netflix/)
  
  
  
