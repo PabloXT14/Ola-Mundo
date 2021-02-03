@@ -40,4 +40,44 @@ Títulos:
      3. subitem
   
  Lista Não Ordenada:
+ 
+ * Item a
+   * a1
+   * a2
+ * Item b
+ * Item c
+ * Item d
+   * d1
+   * d2
+ - Item e
+ - Item f
+ - Item g
+ 
+ Lista de Tarefas:
+ - [X] Varrer o chão
+ - [X] Passar pano no chão
+ - [ ] Lavar a louça
+ - [X] Estudar programção
+ - [ ] Colocas roupa no varal
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
   
